@@ -24,11 +24,11 @@ class Account:
         if int(withdrawamt) > self.balance:
             deposition = input("Please deposit more amount as your balance is insufficient: ")
             self.balance += int(deposition)
-            print("Your current balance is: {}", self.balance)
+            print("Your current balance is: {}\n", self.balance)
         else:
             self.balance -= int(withdrawamt)
             print("-----Withdrawal successfully!-----")
-            print("Your current account balance is: ", self.balance)
+            print("Your current account balance is: \n", self.balance)
 
 
 

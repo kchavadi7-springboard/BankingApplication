@@ -1,0 +1,20 @@
+Readme file:
+The program runs from ‘mainBankingApp.py’ file
+
+————————————————————————————————————————————————————————————————————————————————————————
+* Sample string for:
+Enter First Name, Last Name, Email, Username, Password, Phone#, DOB('YYYY-MM-DD'), Address, SSN#:
+
+Kiran, Chavadi, kc@gmail.com, kc, kcp, 12321323, 1989-04-10, 10Corporate, 22334
+
+-> This will generate a unique customer ID, please not for further input
+
+————————————————————————————————————————————————————————————————————————————————————————
+
+* Sample string for:
+Enter CustomerId, Income, No.of dependants, Employer, Purpose of Loan:
+8970, 50000, 2, Externetworks, Family
+
+
+
+
